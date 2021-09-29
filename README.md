@@ -1,5 +1,3 @@
-![Alt Text](https://media.giphy.com/media/PrAHeQxv4u6hxXtoBb/giphy.gif?cid=790b7611091794a148c5283307980fcde897ad1e0a9c8135&rid=giphy.gif&ct=g)
-
 You can view a live demo over at : https://shopping-site-react.herokuapp.com/
 
 
