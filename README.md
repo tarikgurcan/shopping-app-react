@@ -16,7 +16,7 @@ To get the frontend running locally:
 ### `json-server --watch db.json`
 ### `npm "start_local"` to start the local server
 
-## npm start
+## npm start_local
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -27,4 +27,4 @@ You will also see any lint errors in the console.
 ## Contact
 
 Tarık Gürcan - tarikgurcan16@gmail.com
-Project Link: https://github.com/tarikgurcan/imdb-social
+Project Link: https://github.com/tarikgurcan/shopping-app-react/
