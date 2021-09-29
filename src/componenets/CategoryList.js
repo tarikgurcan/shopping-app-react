@@ -13,7 +13,7 @@ export default class CategoryList extends Component {
     }
     
     getCategories(){
-        fetch("http://localhost:3000/categories").then(resolve=>resolve.json())
+        fetch("https://shopping-site-react.app.herokuapp.com/api/categories").then(resolve=>resolve.json())
         .then(data=>this.setState({categorylist:data})).catch(err=>console.log(err))
     }
   render() {

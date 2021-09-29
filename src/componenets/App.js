@@ -20,7 +20,7 @@ export default class App extends Component {
     this.selectCategory = this.selectCategory.bind(this);
   }
   getProducts(categoryid) {
-    let url = "http://localhost:3000/products";
+    let url = "https://shopping-site-react.app.herokuapp.com/api/products";
     if (categoryid) {
       url += "?categoryId=" + categoryid;
     }
