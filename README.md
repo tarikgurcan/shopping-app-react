@@ -14,7 +14,7 @@ To get the frontend running locally:
 ### `npm install -g json-server`
 ### `npm install` to install all req'd dependencies
 ### `json-server --watch db.json`
-### `npm "start_local"` to start the local server
+### `npm run "start_local"` to start the local server
 
 ## npm start_local
 
