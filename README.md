@@ -1,5 +1,8 @@
 You can view a live demo over at : https://shopping-site-react.herokuapp.com/
 
+## About The Project
+
+● This project is a simplified implementation of a shopping system, the project aims to provide the basic features that are expected to be found in an e-commerce application where users can purchase, add items to their cart and delete items on cart.
 
 ## Built With
 
